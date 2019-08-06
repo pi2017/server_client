@@ -1,3 +1,4 @@
+# Sample code for testing SERVER CLIENT send msg
 
 import socket
 
